@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 0.787565946578979,
-  "n_files"            : 1477,
-  "n_lines"            : 127774,
-  "files_per_second"   : 1875.39850651971,
-  "lines_per_second"   : 162239.112235646,
+  "elapsed_seconds"    : 0.449674129486084,
+  "n_files"            : 1533,
+  "n_lines"            : 135598,
+  "files_per_second"   : 3409.13541491037,
+  "lines_per_second"   : 301547.256354218,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
   "nFiles": 880,
@@ -13,10 +13,10 @@
   "comment": 1855,
   "code": 64245},
 "Kotlin" :{
-  "nFiles": 345,
-  "blank": 4186,
-  "comment": 308,
-  "code": 35132},
+  "nFiles": 394,
+  "blank": 4585,
+  "comment": 385,
+  "code": 42138},
 "Python" :{
   "nFiles": 127,
   "blank": 1521,
@@ -28,30 +28,30 @@
   "comment": 0,
   "code": 1991},
 "SQL" :{
-  "nFiles": 25,
-  "blank": 140,
-  "comment": 120,
-  "code": 1171},
+  "nFiles": 31,
+  "blank": 154,
+  "comment": 160,
+  "code": 1442},
 "JavaScript" :{
   "nFiles": 11,
   "blank": 41,
   "comment": 40,
   "code": 331},
 "GraphQL" :{
-  "nFiles": 15,
-  "blank": 59,
+  "nFiles": 16,
+  "blank": 60,
   "comment": 0,
-  "code": 301},
+  "code": 313},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 103},
 "Bourne Shell" :{
   "nFiles": 1,
   "blank": 28,
   "comment": 118,
   "code": 102},
-"Gradle" :{
-  "nFiles": 2,
-  "blank": 12,
-  "comment": 0,
-  "code": 99},
 "Java" :{
   "nFiles": 4,
   "blank": 8,
@@ -73,7 +73,7 @@
   "comment": 2,
   "code": 10},
 "SUM": {
-  "blank": 12823,
-  "comment": 4281,
-  "code": 110670,
-  "nFiles": 1477} }
+  "blank": 13237,
+  "comment": 4398,
+  "code": 117963,
+  "nFiles": 1533} }
